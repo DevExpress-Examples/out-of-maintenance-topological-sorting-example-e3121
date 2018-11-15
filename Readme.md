@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DXTopoligicalSort.cs](./CS/DXTopoligicalSort.cs) (VB: [DXTopoligicalSort.vb](./VB/DXTopoligicalSort.vb))
+* [GraphClasses.cs](./CS/GraphClasses.cs) (VB: [GraphClasses.vb](./VB/GraphClasses.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # Topological Sorting example
 
 
